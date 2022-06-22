@@ -1,2 +1,2 @@
 #!/bin/bash
-find . -name \*.html cp --parent
+cp 0x00-shell_basics find . -name \*.html  
